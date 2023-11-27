@@ -47,4 +47,4 @@ for file in os.listdir("./cogs"):
     if file.endswith(".py"):
         bot.load_extension(f"cogs.{file[:-3]}")
 
-bot.run("ODU1MTkwNDM0Mjc5MTk0NjM1.YMu4KA.OnNRqiY7irzeHO1VYxgOT4PqVIQ")
+bot.run("")

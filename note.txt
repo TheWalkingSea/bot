@@ -1,0 +1,1 @@
+This was my first ever real project. It was a little advanced for what I knew at the time but it taught me how async worked. This bot moderated servers and was my first time doing image manipulation.
